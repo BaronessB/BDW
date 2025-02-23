@@ -110,6 +110,18 @@ input, select, textarea {
 		margin-bottom: 1em;
 	}
 
+p.uppercase {
+  text-transform: uppercase;
+}
+
+p.lowercase {
+  text-transform: lowercase;
+}
+
+p.capitalize {
+  text-transform: capitalize;
+}
+
 	h3, h4 {
 		color: #283121;
 		margin-bottom: 0.5em;
